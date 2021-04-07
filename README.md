@@ -1,5 +1,9 @@
 ### Hi there, I'm Samantha 👋
 
+I work at The Guardian as a Software Engineering Fellow.
+
+I'm a Makers Academy graduate with a background in film production.
+
 [LinkedIn](https://www.linkedin.com/in/samanthagottlieb/ "LinkedIn profile")
 
 <!--
